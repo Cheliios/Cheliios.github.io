@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    /* background-image: url("https://www.blogdelfotografo.com/wp-content/uploads/2020/04/fotografo-paisajes.jpg"); */
+    /* background-repeat: repeat-y; */
+    /* background-position:center; */
+    width: 750px;
+    height: 750px;
+    margin: auto;
+    margin-top: 10px;
+}
+header{
+    width: 750px;
+    height: 250px;
+    background: greenyellow;
+    margin: 0px;
+}
+
+
+.baner{
+    background-color: aqua;
+    width: 500px;
+    height: 250px;
+    float: right;
+}
+#logo{
+    background-color: blueviolet;
+    height: 125px;
+    width: 250px;
+    float: left;
+}
+.buscador{
+    background-color: rgb(30, 19, 182);
+    height: 125px;
+    width: 250px;
+    float:left;
+
+}
+ul{
+    height: 50px;
+    background-color: rgb(187, 155, 155);
+}
+nav{
+    margin: 0px;
+}
+nav li{
+    list-style: none;
+}
+nav ul li{
+    float: left;
+}
+nav a{
+    color: #a02a2a;
+    text-decoration: none;
+    padding: 15px;
+    line-height: 50px;
+    font-family: Bernard MT Condensed;
+}
+main{
+    height: 400px;
+    background: purple;
+}
+.izq{
+    background-color: rgb(245, 245, 9);
+    height: 400px;
+    width: 150px;
+    float:left;
+}
+article{
+    background-color: rgb(17, 95, 82);
+    height: 400px;
+    width: 500px;
+    float:left;
+}
+#der{
+    background-color: rgb(245, 245, 9);
+    height: 400px;
+    width: 100px;
+    float:left;
+}
+footer{
+    height: 50px;
+    background: red;
+}
