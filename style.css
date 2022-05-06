@@ -46,7 +46,7 @@ main{
 }
 .izq{
     background-color: rgb(245, 245, 9);
-    height: 500px;
+    height: 537px;
     width: 500px;
     float:left;
 }
@@ -90,7 +90,7 @@ tr, td{
 }
 article{
     background-color: rgb(39, 145, 127);
-    height: 537px;
+    height: auto;
     width: auto;  
     text-align: auto;
 }
@@ -108,9 +108,8 @@ footer{
     float: center;
     color:aliceblue;
     text-align: center;
-    height: 150px;
+    height: 130px;
     width: auto;
     background: rgb(0, 0, 0); 
-    margin-bottom: 0px;
     
 }
