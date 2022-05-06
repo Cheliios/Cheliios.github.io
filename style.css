@@ -92,8 +92,7 @@ article{
     background-color: rgb(39, 145, 127);
     height: 537px;
     width: auto;  
-    text-align: justify;
-    text-align-last: center;
+    text-align: auto;
 }
 .map{
     background-color: #ffe600;
