@@ -1,4 +1,4 @@
-let figuras  = prompt("Escribe correctamente la figura que deseas ejecutar: ")
+let figuras  = prompt("Escriba correctamente el nombre de una figura geometrica: ")
 
 let base;
 let altura;
