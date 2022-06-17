@@ -1,4 +1,4 @@
-let figuras  = prompt("Escriba correctamente el nombre de una figura geometrica: ")
+let figuras  = prompt("Aca podras calcular el area de una figura geometrica. Escriba correctamente el nombre de una figura geometrica y veamos que pasa: ")
 
 let base;
 let altura;
